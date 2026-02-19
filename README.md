@@ -12,7 +12,6 @@ VS Code
 npm (comes with Node)
 
 Live Server or vite for dev preview
-
 📁 2. Project Structure (based on your files)
 bash
 Copy
