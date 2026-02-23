@@ -1,4 +1,5 @@
 # Online-Quiz-Maker-
+
 TestHive is a fun quiz site where you can make quizzes or take them. You can sign up, create your own questions, try others' quizzes, check scores instantly, and even see who’s on the leaderboard. It looks nice, works on all devices, and saves everything in your browser.
 
 ✅ Part 1: VS Code Setup Instructions for TestHive
@@ -227,7 +228,7 @@ Google Fonts
 
 Inspired by platforms like Kahoot, Quizizz, and Typeform.
 
-Built with ❤️ by Kartik for learning, sharing, and mastering concepts through quizzes.
+
 
 yaml
 Copy
